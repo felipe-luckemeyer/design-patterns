@@ -10,6 +10,9 @@
 // - Strutural: deal with the composition of classes or objects;
 // - Behavioral: characterize the ways in which classes or objects interact and distribute responsibility.
 
+// There are many ways the patterns can be organized. We can also do a mind map
+// that connect all the patterns, showing the relationship of each other.
+
 // After that, learn the following patterns:
 // - Abstract Factory (page 87)
 // - Factory Method (page 107)
